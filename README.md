@@ -7,7 +7,7 @@ You're visitor number
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaito117&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=gruvbox" />
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kaito117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaito117&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 <!--
 **Kaito117/Kaito117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
